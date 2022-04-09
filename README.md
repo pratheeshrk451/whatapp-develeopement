@@ -1,2 +1,2 @@
 # whatapp-develeopement
-In this code is used to develope the chat application
+In this code is used to develope a chat application
