@@ -12,7 +12,7 @@
    <artifactId>cucumber-java</artifactId>
    <version>1.2.6</version>
 </dependency>
-
+<!-- new text added inside the command -->
 
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
 <dependency>
